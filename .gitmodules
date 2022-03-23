@@ -1,0 +1,3 @@
+[submodule "TensorflowContrib"]
+	path = TensorflowContrib
+	url = git@github.com:kodzok/TensorflowContrib.git
